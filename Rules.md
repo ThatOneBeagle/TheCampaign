@@ -23,7 +23,11 @@ Objective cards contain a list of objectives for players to attempt to achieve. 
 
 **Policy cards**
 
-Policies form the bedrock of any political campaign - so they\'d better be good. Policy cards are doublesided. Their default state on pickup is \"*Active*\", but they can be flipped to \"*U-Turned*\". All Policy cards have a positive or negative Political Capital value. U-turning a card turns a positive Political Capital value to a negative Political Capital value, and vice versa.
+Policies form the bedrock of any political campaign - so they\'d better be good. Policy cards are doublesided. Their default state on pickup is \"*Active*\", but they can be flipped to \"*U-Turned*\". 
+
+All Policy cards have a positive or negative Political Capital value. 
+
+U-turning a card turns a positive Political Capital value to a negative Political Capital value, and vice versa.
 
 All Policy Cards have an *Affilation*, which are relevant to allowing players to fulfil the objectives laid out in the *Objective Cards*.
 
