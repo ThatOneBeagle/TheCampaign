@@ -53,7 +53,13 @@ During setup, players are dealt Influential Person cards. These cards are kept s
 
 **Blackmail cards**
 
-Politics may well be riddled with scandals and corruption, but on this rare occasion a politician has been caught red-handed. Through an _Event card_, players may be granted a Blackmail card that will allow them to apply the printed negative _Political Capital_ value to the deck of the player which it concerns. Blackmail cards list an _Influential Person_. If the player possesses that _Influential Person_, then the multiplier listed on the card can be applied to the negative _Political Capital_ value when the Blackmail card is invoked.
+Politics may well be riddled with scandals and corruption, but on this rare occasion a politician has been caught red-handed. 
+
+Through an _Event card_, players may be granted a Blackmail card that will allow them to apply the specified negative _Political Capital_ value to the deck of the player which it concerns. 
+
+Blackmail cards list an _Influential Person_. If the player who holds the Blackmail card possesses that _Influential Person_, then the negative Political Capital value is multiplied by five.
+
+When a Blackmail card is played, the target has the chance to appeal it in a defamation lawsuit. The target rolls two dice, and if both dice have the same value then they win the defamation lawsuit and the negative Political Capital value is assigned to the person who played the Blackmail card instead.
 
 **Player pieces**
 
